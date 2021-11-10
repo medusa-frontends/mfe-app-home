@@ -1,4 +1,3 @@
 {
-  "build": "./dist",
-  "requires": ["@mfe/app-layout"]
+  "requires": ["mfe-app-layout"]
 }
